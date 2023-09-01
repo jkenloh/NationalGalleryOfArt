@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project focuses on using SQL to extract insights from the National Gallery of Art (NGA) dataset. As part of their open data program (link this), the NGA offers 17 CSV files and an Entity Relationship Diagram (ERD). I will create a SQLite database from these CSV files, perform data analysis with SQL, and visualize the results using Python. 
+This project focuses on using SQL to extract insights from the National Gallery of Art (NGA) dataset. As part of their [open data program](https://www.nga.gov/open-access-images/open-data.html), the NGA offers 17 CSV files and an Entity Relationship Diagram (ERD). I will create a SQLite database from these CSV files, perform data analysis with SQL, and visualize the results using Python. 
 
 ## Project Questions
 
