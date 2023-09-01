@@ -10,7 +10,7 @@ The project seeks to answer the following questions:
 
 **Timeframe of Artworks:** What timeframe or time period are most of the artworks created from?
 
-**Prolific Artists:** Who are the artists with the most works at the NGA? In which time period were most of these artists' works created?
+**Prolific Artists:** Who are the artists with the most works at the NGA? 
 
 **Artwork Types:** What is the breakdown of the types of artworks in the NGA collection? (e.g., painting, print, sculpture, photograph, etc.)
 
@@ -22,7 +22,7 @@ The project seeks to answer the following questions:
 
 **Canadian Artworks:** How many total art pieces are attributed to Canadian artists?
 
-**Types of Canadian Artworks:** What types of artworks, such as photographs, prints, or paintings, are created by Canadian artists?
+**Types of Canadian Artworks:** What is the breakdown of the types of artworks by Canadian artists? (e.g., painting, print, sculpture, photograph, etc.)
 
 **Time Period of Canadian Artworks:** In which time period were these artworks by Canadian artists predominantly created?
 
@@ -30,8 +30,8 @@ The project seeks to answer the following questions:
 
 **Data Collection and Database Creation:** Use the provided CSV files and the ERD as a guide to create the SQLite database.
 
-**SQL Data Analysis:** Write SQL queries to extract data that answers the project questions.
+**SQL Data Analysis:** Write SQL queries to extract data to answer the project questions.
 
-**Data Visualization:** Utilize Python and libraries like Matplotlib or Seaborn to create visualizations that illustrate the findings.
+**Data Visualization:** Use Python to create visualizations that illustrate the findings.
 
 **Report Generation:** Summarize the results and insights gained from the analysis in a final PowerPoint report.
