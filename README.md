@@ -8,23 +8,23 @@ This project focuses on using SQL to extract insights from the National Gallery 
 
 The project seeks to answer the following questions:
 
-**Timeframe of Artworks:** What timeframe or time period are most of the artworks created from?
+1) **Timeframe of Artworks:** What timeframe or time period are most of the artworks created from?
 
-**Prolific Artists:** Who are the artists with the most works at the NGA? 
+2) **Prolific Artists:** Who are the artists with the most works at the NGA? 
 
-**Artwork Types:** What is the breakdown of the types of artworks in the NGA collection? (e.g., painting, print, sculpture, photograph, etc.)
+3) **Artwork Types:** What is the breakdown of the types of artworks in the NGA collection? (e.g., painting, print, sculpture, photograph, etc.)
 
-**Origins of Artworks:** Where were most of these artworks sourced from? (e.g., collections, funds, donors)
+4) **Origins of Artworks:** Where were most of these artworks sourced from? (e.g., collections, funds, donors)
 
-**Top Donors:** Who are the most active donors to the NGA?
+5) **Top Donors:** Who are the most active donors to the NGA?
 
-**Canadian Artists:** How many Canadian artists are represented in the NGA collection?
+6) **Canadian Artists:** How many Canadian artists are represented in the NGA collection?
 
-**Canadian Artworks:** How many total art pieces are attributed to Canadian artists?
+7) **Canadian Artworks:** How many total art pieces are attributed to Canadian artists?
 
-**Types of Canadian Artworks:** What is the breakdown of the types of artworks by Canadian artists? (e.g., painting, print, sculpture, photograph, etc.)
+8) **Types of Canadian Artworks:** What is the breakdown of the types of artworks by Canadian artists? (e.g., painting, print, sculpture, photograph, etc.)
 
-**Time Period of Canadian Artworks:** In which time period were these artworks by Canadian artists predominantly created?
+9) **Time Period of Canadian Artworks:** In which time period were these artworks by Canadian artists predominantly created?
 
 ## Project Execution
 
