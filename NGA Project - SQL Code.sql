@@ -71,7 +71,7 @@ WHERE artistOfNGAObject = 1
 
 ----------
 
--- How many art pieces are attributed to each Canadian artist, and what type of art was it? (e.g., painting, print, sculpture, photograph, etc.)
+-- 8) How many art pieces are attributed to each Canadian artist, and what type of art was it? (e.g., painting, print, sculpture, photograph, etc.)
 SELECT forwardDisplayName, subClassification, COUNT(*) AS count
 FROM constituents AS c
 INNER JOIN objects_constituents AS oc
@@ -85,7 +85,7 @@ ORDER BY count DESC;
 
 ----------
 
--- 8) What is the breakdown of the types of artworks by Canadian artists? (e.g., painting, print, sculpture, photograph, etc.)
+-- 9) What is the breakdown of the types of artworks by Canadian artists? (e.g., painting, print, sculpture, photograph, etc.)
 -- CTE used to calculate percentage of the total count
 WITH total_cte(total_count)
 AS
@@ -110,7 +110,7 @@ ORDER BY count DESC;
 
 ----------
 
--- 9) In which time period were these artworks by Canadian artists predominantly created?
+-- 10) In which time period were these artworks by Canadian artists predominantly created?
 SELECT o.visualBrowserTimeSpan, COUNT(*) AS count
 FROM constituents AS c
 INNER JOIN objects_constituents AS oc
