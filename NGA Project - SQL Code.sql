@@ -71,8 +71,8 @@ WHERE artistOfNGAObject = 1
 
 ----------
 
--- 8) How many art pieces are attributed to each Canadian artist, and what type of art was it? (e.g., painting, print, sculpture, photograph, etc.)
-SELECT forwardDisplayName, subClassification, COUNT(*) AS count
+-- 8) How many art pieces are attributed to each Canadian artist?
+SELECT forwardDisplayName, COUNT(*) AS count
 FROM constituents AS c
 INNER JOIN objects_constituents AS oc
 ON c.constituentID = oc.constituentID
@@ -80,7 +80,7 @@ INNER JOIN objects AS o
 ON oc.objectID = o.objectID
 WHERE artistOfNGAObject = 1
 	AND nationality = 'Canadian' AND (oc.role = 'artist' OR oc.role = 'painter') 
-GROUP BY forwardDisplayName, subClassification
+GROUP BY forwardDisplayName
 ORDER BY count DESC;
 
 ----------
