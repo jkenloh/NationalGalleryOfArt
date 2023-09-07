@@ -16,7 +16,7 @@ The project seeks to answer the following questions:
 
 4) **Origins of Artworks:** Where were most of these artworks sourced from? (e.g., collections, funds, donors)
 
-5) **Top Donors:** Who are the most active donors to the NGA?
+5) **Top Donors:** Who are the most active constituents to the NGA?
 
 6) **Canadian Artists:** How many Canadian artists are represented in the NGA collection?
 
