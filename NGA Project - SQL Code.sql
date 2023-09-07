@@ -36,7 +36,7 @@ LIMIT 10;
 
 ----------
 
--- 5) Who were the most active donors to the NGA?
+-- 5) Who were the most active constituents to the NGA?
 SELECT c.lastname, forwardDisplayName, COUNT(lastName) AS count
 FROM objects AS o
 INNER JOIN objects_constituents AS oc
