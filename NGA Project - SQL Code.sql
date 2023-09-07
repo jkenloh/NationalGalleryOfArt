@@ -123,7 +123,7 @@ GROUP BY o.visualBrowserTimeSpan
 ORDER BY count DESC;
 
 -- Curious to see oldest Canadian art piece
-SELECT forwardDisplayName, title, MIN(o.visualBrowserTimeSpan)
+SELECT forwardDisplayName, title, MIN(o.beginYear), subClassification
 FROM constituents AS c
 INNER JOIN objects_constituents AS oc
 ON c.constituentID = oc.constituentID
@@ -134,7 +134,7 @@ WHERE artistOfNGAObject = 1
 ORDER BY lastName;
 
 -- Latest?
-SELECT forwardDisplayName, title, MAX(o.visualBrowserTimeSpan)
+SELECT forwardDisplayName, title, MAX(o.beginYear), subClassification
 FROM constituents AS c
 INNER JOIN objects_constituents AS oc
 ON c.constituentID = oc.constituentID
