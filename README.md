@@ -30,10 +30,10 @@ The project seeks to answer the following questions:
 
 ## Project Execution
 
-**Data Collection and Database Creation:** Use the provided CSV files and the ERD as a guide to create the SQLite database.
+**Data Collection and [Database Creation](https://github.com/jkenloh/NationalGalleryOfArt/blob/main/NGA%20Project%20-%20Tables%20Creation%20SQL%20Code.sql):** Use the provided CSV files and the ERD as a guide to create the SQLite database.
 
 [**SQL Data Analysis:**](https://github.com/jkenloh/NationalGalleryOfArt/blob/main/NGA%20Project%20-%20SQL%20Code.sql) Write SQL queries to extract data to answer the project questions.
 
-**Data Visualization:** Use Python to create visualizations that illustrate the findings.
+[**Data Visualization:**](https://github.com/jkenloh/NationalGalleryOfArt/blob/main/NGA%20Project%20-%20Python%20Code.ipynb) Use Python to create visualizations that illustrate the findings.
 
-**Report Generation:** Summarize the results and insights gained from the analysis in a final PowerPoint report.
+[**Report Generation:**](https://github.com/jkenloh/NationalGalleryOfArt/blob/main/NGA%20Project%20-%20Summary%20Report.pdf) Summarize the results and insights gained from the analysis in a final PowerPoint report.
