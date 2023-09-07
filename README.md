@@ -16,15 +16,17 @@ The project seeks to answer the following questions:
 
 4) **Origins of Artworks:** Where were most of these artworks sourced from? (e.g., collections, funds, donors)
 
-5) **Top Donors:** Who are the most active constituents to the NGA?
+5) **Top Constituents:** Who are the most active constituents to the NGA?
 
 6) **Canadian Artists:** How many Canadian artists are represented in the NGA collection?
 
 7) **Canadian Artworks:** How many total art pieces are attributed to Canadian artists?
 
-8) **Types of Canadian Artworks:** What is the breakdown of the types of artworks by Canadian artists? (e.g., painting, print, sculpture, photograph, etc.)
+8) **Attributed Artworks per Canadian Artist:** How many art pieces are attributed to each Canadian artist?
 
-9) **Time Period of Canadian Artworks:** In which time period were these artworks by Canadian artists predominantly created?
+9) **Types of Canadian Artworks:** What is the breakdown of the types of artworks by Canadian artists? (e.g., painting, print, sculpture, photograph, etc.)
+
+10) **Time Period of Canadian Artworks:** In which time period were these artworks by Canadian artists predominantly created?
 
 ## Project Execution
 
